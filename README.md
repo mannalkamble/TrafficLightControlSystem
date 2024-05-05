@@ -24,7 +24,7 @@ The state machine for the project includes the following states:
 
 Transitions between states occur based on elapsed time and button inputs, with mechanisms to handle interruptions for pedestrian crossing.  
 
-![State Diagram](TrafficLightControlSystem/images/StateDiagram.png)
+![State Diagram](/images/StateDiagram.png)
 
 ## Hardware Components
 - Breadboard  
